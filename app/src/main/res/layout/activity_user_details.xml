@@ -62,7 +62,6 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop="5dp"
         android:hint="Your Name"
-        android:maxLength="20"
         android:singleLine="true" />
 
     <EditText
@@ -74,7 +73,7 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop="5dp"
         android:hint="Your Contact Number"
-        android:maxLength="20"
+        android:maxLength="12"
         android:numeric="integer"
         android:singleLine="false" />
 
@@ -87,7 +86,6 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop="5dp"
         android:hint="Your Email"
-        android:maxLength="20"
         android:inputType="textEmailAddress"
         android:singleLine="false" />
 
