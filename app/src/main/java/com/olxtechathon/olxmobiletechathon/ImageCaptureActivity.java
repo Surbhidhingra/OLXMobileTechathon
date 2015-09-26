@@ -26,7 +26,7 @@ public class ImageCaptureActivity extends AppCompatActivity implements View.OnCl
     public void onClick(View v) {
 
         switch (v.getId()) {
-            case R.id.btn_next:
+            case R.id.tv_next:
                 startActivity(new Intent(ImageCaptureActivity.this, ProductDetailsActivity.class));
                 break;
             case R.id.img_1:
