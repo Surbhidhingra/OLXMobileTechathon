@@ -53,7 +53,6 @@
         android:layout_marginRight="10dp"
         android:layout_marginTop="10dp"
         android:hint="Category"
-        android:editable="false"
         android:singleLine="true" />
 
     <EditText

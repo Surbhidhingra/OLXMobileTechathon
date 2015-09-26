@@ -41,6 +41,7 @@
             android:id="@+id/img_cam"
             android:layout_width="0dp"
             android:layout_height="100dp"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter"
             android:src="@android:drawable/ic_menu_camera" />
@@ -49,6 +50,7 @@
             android:id="@+id/img_attach"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter"
             android:src="@android:drawable/ic_menu_add" />
@@ -57,6 +59,7 @@
             android:id="@+id/img_1"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
 
@@ -64,6 +67,7 @@
             android:id="@+id/img_2"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
 
@@ -71,6 +75,7 @@
             android:id="@+id/img_3"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
     </LinearLayout>
@@ -85,6 +90,7 @@
             android:id="@+id/img_4"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
 
@@ -92,6 +98,7 @@
             android:id="@+id/img_5"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
 
@@ -99,6 +106,7 @@
             android:id="@+id/img_6"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
 
@@ -106,6 +114,7 @@
             android:id="@+id/img_7"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
 
@@ -113,6 +122,7 @@
             android:id="@+id/img_8"
             android:layout_width="0dp"
             android:layout_height="match_parent"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:scaleType="fitCenter" />
     </LinearLayout>
